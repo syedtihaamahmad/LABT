@@ -26,7 +26,7 @@ void setup() {
   webPage += "    <p>by team LABT</p>";
   webPage += "  <style>";
   webPage += "    body {text-align : center; font-family: arial; background-color: white;}";
-  webPage += "    h1 { font-size : 50; font-weight : bold; color : #1B5E20} p{ color : black}";
+  webPage += "    h1 { font-size : 50; font-weight : bold; color : #1B5E20} p{ font-size : 10px; color : black}";
   webPage += "    button {background-color: #4CAF50; color: white; border : none; padding :15px 32px; text-align: center; text-decoration : none; display : inline-block; font-size: 20px; margin: 4px 2px; cursor:pointer;}";  
   webPage += "  </style>";
   webPage += "</body>";
