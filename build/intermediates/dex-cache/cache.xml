@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/tihaam/.android/build-cache/eeea655f1e9e76364a7790ca46f3996ebdaefa13/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/tihaam/Downloads/Project/LABT/app/build/intermediates/pre-dexed/debug/classes_ca4159b33005a37ab929617e567bf387ba0fc6bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tihaam/.android/build-cache/c50fc09cfe486e3eee85e6c05a6862aa48434848/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/tihaam/Downloads/Project/LABT/app/build/intermediates/pre-dexed/debug/classes_27ceff8d734d955c662da3c75d4307be1bd14c43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tihaam/.android/build-cache/58ccc6219e46c7b6c24fbcc3bc6050852e14d787/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/tihaam/Downloads/Project/LABT/app/build/intermediates/pre-dexed/debug/classes_f58b949675b728d73e46fbd55198744e21854814.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tihaam/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/home/tihaam/Downloads/Project/LABT/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_b8b811c83956cab71c7e4ce202a9ed5958d1e049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tihaam/.android/build-cache/f56a4fd5e9cf1524a3860f96123e4f83b20ca0a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/tihaam/Downloads/Project/LABT/app/build/intermediates/pre-dexed/debug/classes_716e37171556a2b134644e4d2601a61fc0ed3d89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tihaam/.android/build-cache/7e568903a5bf9654d110a817d6c635e134190cc9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/tihaam/Downloads/Project/LABT/app/build/intermediates/pre-dexed/debug/classes_a0dc760b03a50929d066bc19f0061b065295f021.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tihaam/.android/build-cache/5715b55e306b74ece3a5a5580f7c066f4c5d6eb6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/tihaam/Downloads/Project/LABT/app/build/intermediates/pre-dexed/debug/classes_29dc60ab61d8d8f4566b00fcceae9919895f76b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tihaam/.android/build-cache/603fcd313c92782b95b3ed1270645190f79d28c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/tihaam/Downloads/Project/LABT/app/build/intermediates/pre-dexed/debug/classes_78e5b550f2f617b92287e7a7086ea80f7b7adad4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tihaam/.android/build-cache/e2eeaffc4a2bd7a6228dd76250f9c1af655c43cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/tihaam/Downloads/Project/LABT/app/build/intermediates/pre-dexed/debug/classes_26fb4f43337b28b415b7078d020a1cd058e4f3e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tihaam/.android/build-cache/166f6e12c59792b41f263b33a1e27da2079a44a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/tihaam/Downloads/Project/LABT/app/build/intermediates/pre-dexed/debug/classes_42ea2acc66092bd38b69f9a55cf3bccb7e8e6061.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tihaam/.android/build-cache/7320ffb829c57b29fa275f6ffba306b8bfc5501c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/tihaam/Downloads/Project/LABT/app/build/intermediates/pre-dexed/debug/classes_79b827c57426de92991cf76787a5b97bd7eef7d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tihaam/.android/build-cache/9ebb6dac6d06190f64c5324c1d6f3dd92d96d313/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/tihaam/Downloads/Project/LABT/app/build/intermediates/pre-dexed/debug/classes_f248a6e4f69c1467b929527953a0cbc6d231cd51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tihaam/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/tihaam/Downloads/Project/LABT/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_a8f4ce97e8994af4be85759fb9f1c1c62ae79abf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tihaam/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/tihaam/Downloads/Project/LABT/app/build/intermediates/pre-dexed/debug/glide-3.7.0_0cefdafae60335d4e3974da2f94109c30744b5a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tihaam/.android/build-cache/6735d3ec5cd8a6e7847fd5524c708796897c26bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/tihaam/Downloads/Project/LABT/app/build/intermediates/pre-dexed/debug/classes_897f83232d3f72837b9d08cf0525635e5a35a67b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tihaam/.android/build-cache/e8caec6b60bf40682a83483d560fadac710e87f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/tihaam/Downloads/Project/LABT/app/build/intermediates/pre-dexed/debug/classes_6644c1dada2143f3f10e7a5bf0bd5a790b2ff13b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tihaam/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/tihaam/Downloads/Project/LABT/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_321b37cafeff7a5da4a859e42ebd3b4b931ccd10.jar" />
+    </item>
+
+</items>
